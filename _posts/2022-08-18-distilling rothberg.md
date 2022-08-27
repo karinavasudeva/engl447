@@ -1,3 +1,9 @@
+---
+title: Distilling Multidirectional Memory
+category: journal
+layout: post
+---
+
 1. There's no hierarchy between historical tragedies. Memories are specific and distinctive, and therefore cannot be compared and ranked by value.
 
 2. Humans have a tendency to categorize, but individuality limits the extent to which traumatic memories can be categorized. Individual identity enables hierarchical value to be placed on memories.
